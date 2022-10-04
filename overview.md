@@ -45,7 +45,8 @@ My Reading List & Resources
 
 ### **Overview, Tools, and Pathways**
 
->These are tools in which I am familiar with -- and are some of the go-to tools I use when starting a machine, CTF, lab, challenge, etc. These tools >generally fall into the reconnaissance and vulnerability assessment steps. While these tools are great for increasing efficiency and speed, I do think it's important to understand what these tools do, and I will go into much more detail regarding the manual use of these methods on the individual lab/machine writeup/notes pages.  
+>These are tools in which I am familiar with -- and are some of the go-to tools I use when starting a machine, CTF, lab, challenge, etc. These tools >generally fall into the reconnaissance and vulnerability assessment steps.  /
+>While these tools are great for increasing efficiency and speed, I do think it's incredibly important to understand what these tools do, and I will go into much more detail regarding the manual use of these methods both below (towards the bottom of the page) as well as in practice, on the individual lab/machine writeup/notes pages.  
 
 <details>
 
