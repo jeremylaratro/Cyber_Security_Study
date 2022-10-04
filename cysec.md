@@ -203,7 +203,6 @@ Areas I'd Like to Improve
 
 
 <details>
-
 <summary>
 Local File Inclusion and Remote File Inclusion Overview
 </summary>
@@ -397,7 +396,6 @@ Tools:
 
 
 <details>
-
 <summary>
 Server-Side Template Injection - SSTI
 </summary>
@@ -496,7 +494,6 @@ Tools:
 
 
 <details>
-
 <summary>
 SMB Exploitation
 </summary>
