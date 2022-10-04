@@ -2,7 +2,7 @@
 
 #   Cybersecurity: Notes and Projects
 
- <script src="https://tryhackme.com/badge/1210884"> </script>
+
 
 ----- 
 
