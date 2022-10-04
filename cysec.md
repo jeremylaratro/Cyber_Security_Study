@@ -566,9 +566,6 @@ Upon entry -->
 
 -------
 
->### **XSS: Cross Site Scripting**
-
--------
 
 <details>
 <summary>
